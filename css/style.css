@@ -38,7 +38,6 @@ img.profile-img {
 
 .about {
   margin-top: 4%;
-  line-height: .8;
 }
 
 .social {
@@ -55,4 +54,16 @@ img.profile-img {
 
 .social a:hover {
   text-decoration: underline;
+}
+
+/* Media queries */
+
+@media all and (max-width: 29.75em) {
+  h2 {
+    font-size: 1.1em;
+  }
+
+  .container {
+    padding: 15px;
+  }
 }
