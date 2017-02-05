@@ -6,13 +6,14 @@ body {
   margin: 0px;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
-  color: #555;
+  color: #FFF;
+  background-color: #222;
 }
 
 h1, h2, strong {
   padding: 0px;
   margin: 0px;
-  color: #333;
+  color: #FFF;
 }
 
 a {
@@ -21,7 +22,7 @@ a {
 }
 
 a:hover {
-  color: #FFF;
+  color: #222;
   background-color: #FF2A2A;
 }
 
@@ -47,7 +48,7 @@ img.profile-img {
 .social a {
   color: #FF2A2A;
   text-decoration: none;
-  background-color: #FFF;
+  background-color: #222;
   margin: 10px 20px;
   font-size: 24px;
 }
